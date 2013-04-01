@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="HTML-KickStart-master/css/kickstart.css" media="all" /> <!-- KICKSTART -->
     <script src="jQuery-xcolor-master/jquery.xcolor.js"></script> <!-- xcolor -->
     <LINK href="styl.css" rel="stylesheet" type="text/css">
-
+    <!--<script src="styl.css"></script>-->
   </head>
   <body>
 
